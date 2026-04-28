@@ -15,16 +15,18 @@ The goal was to transform raw, messy real-world data into clean, insightful info
 **Cleaned Output**: `housing_data_cleaned.csv`
 
 ## Repository Structure
-nashville-housing-data-cleaning-eda-python/
-├── README.md
-├── nashville_housing_python_cleaning.py     # Data cleaning pipeline
-├── nashville_housing_eda.py                 # EDA and visualizations
-├── Nashville Housing Data for Data Cleaning.xlsx   # Raw data
-├── housing_data_cleaned.csv                 # Cleaned dataset
-├── 01_avg_sale_price_per_year.png
-├── 02_avg_price_by_year_built.png
-├── 03_top_cities_by_sales.png
-├── 04_average_saleprice_top5.png
+
+    nashville-housing-data-cleaning-eda-python/
+    	├── README.md
+    	├── nashville_housing_python_cleaning.py     # Data cleaning pipeline
+    	├── nashville_housing_eda.py                 # EDA and visualizations
+    	├── Nashville Housing Data for Data Cleaning.xlsx   # Raw data
+    	├── housing_data_cleaned.csv                 # Cleaned dataset
+    	└── 01_avg_sale_price_per_year.png
+      └── 02_avg_price_by_year_built.png
+      └── 03_top_cities_by_sales.png
+      └── 04_average_saleprice_top5.png
+      
 
 
 ## Results & Insights
