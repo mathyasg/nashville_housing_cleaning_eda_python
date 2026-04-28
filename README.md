@@ -1,7 +1,5 @@
 # Nashville Housing Data Cleaning & Analysis in Python
 
-![Project Banner](https://via.placeholder.com/800x200/1e3a8a/ffffff?text=Nashville+Housing+Analysis)
-
 ## Project Overview
 This project demonstrates a complete **end-to-end data analytics workflow** on the Nashville Housing dataset. It covers thorough data cleaning followed by Exploratory Data Analysis (EDA) and visualizations using Python.
 
