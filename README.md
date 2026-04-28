@@ -23,9 +23,9 @@ The goal was to transform raw, messy real-world data into clean, insightful info
     	├── Nashville Housing Data for Data Cleaning.xlsx   # Raw data
     	├── housing_data_cleaned.csv                 # Cleaned dataset
     	└── 01_avg_sale_price_per_year.png
-      └── 02_avg_price_by_year_built.png
-      └── 03_top_cities_by_sales.png
-      └── 04_average_saleprice_top5.png
+        └── 02_avg_price_by_year_built.png
+        └── 03_top_cities_by_sales.png
+        └── 04_average_saleprice_top5.png
       
 
 
@@ -76,6 +76,7 @@ These insights demonstrate how proper data cleaning unlocks meaningful business 
    ```bash
    python nashville_housing_eda.py
 
-###Future Improvements
+## Future Improvements ##
 **Build an interactive Tableau/Power BI dashboard**
+
 **Develop a machine learning model for price prediction**
